@@ -1,10 +1,10 @@
 ## Olá, me chamo André Vinicius
 
-Sou estudante bolsista do programa Embarque Digital, onde estudo Análise e Desenvolvimento de Sistemas na Faculdade SENAC Pernambuco e também sou estudante bolsista do PROUNI cursando Ciências da Computação na Universidade Católica de Brasília.<br/>
+Sou graduado Análise e Desenvolvimento de Sistemas pela Faculdade SENAC Pernambuco e ex-bolsista do programa Embarque Digital. Atuo como Analista de Sistemas Junior na Deloitte, e atualmente estou alocado em um projeto do agronegócio utilizando C#, React, Javascript e Azure<br/>
 
 ### Sobre Mim
-- 🔭 Atualmente tenho interesse na área de desenvolvimento fullstack e back-end
-- 🌱 Me aprofundando em C# e .NET, mas pretendo iniciar os estudos em typescript para me tornar fullstack 
+- 🔭 Tenho interesse na área de desenvolvimento fullstack e back-end, principalmente utilizando C#
+- 🌱 Gosta de estudar sobre tecnologias e pretendo fazer mestrado na área de engenharia de software
 
 <div> 
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Andrevss&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
