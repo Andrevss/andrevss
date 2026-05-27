@@ -1,6 +1,6 @@
 ## Olá, me chamo André Vinicius
 
-Sou graduado Análise e Desenvolvimento de Sistemas pela Faculdade SENAC Pernambuco e ex-bolsista do programa Embarque Digital. Atuo como Analista de Sistemas Junior na Deloitte, e atualmente estou alocado em um projeto do agronegócio utilizando C#, React, Javascript e Azure<br/>
+Sou graduado Análise e Desenvolvimento de Sistemas pela Faculdade SENAC Pernambuco, ex-bolsista do programa Embarque Digital e mestrando em Ciências da Computação na área de engenharia de software na Universidade Federal de Pernambuco. Atuo como Analista de Sistemas Junior na Deloitte, e atualmente estou alocado em um projeto do agronegócio utilizando C#, React, Javascript e Azure<br/>
 
 ### Sobre Mim
 - 🔭 Tenho interesse na área de desenvolvimento fullstack e back-end, principalmente utilizando C#
